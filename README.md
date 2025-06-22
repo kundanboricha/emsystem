@@ -61,7 +61,7 @@ Perfect for managing & viewing events with role-based access for Admins & Users.
 
 
 
-## ⚙️ Setup & Installation
+## ⚙️ Login Access
 - login acess
 - for admin login 
 - email :admin@example.com 
